@@ -1,0 +1,18 @@
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+int main()
+{
+    double x;
+    double y;
+    double A;
+    double B;
+
+    cout << "x = "; cin >> x;
+
+    // тут буде розрахунок
+
+    cout << "y = " << y << endl;
+    return 0;
+}
